@@ -3,7 +3,7 @@
 #include <math.h>
 /*
  * lessnasty.c
- Code Refactoring - Assignment 1 APC 524 FALL 2020 Princeton University
+ * Code Refactoring - Assignment 1 APC 524 FALL 2020 Princeton University
  */
 
 int main()
